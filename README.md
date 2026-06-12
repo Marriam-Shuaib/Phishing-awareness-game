@@ -40,7 +40,7 @@ member was heard throughout the process.
 
 ## Technical Details
 - Built in HTML
-- Agile methodology followed throughout — 3 sprints, 3 prototypes
+- Agile methodology followed throughout, 3 sprints, 3 prototypes
 - Presented in Week 10 and Week 11
 
 ## What I Learned
