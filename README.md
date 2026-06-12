@@ -45,7 +45,7 @@ member was heard throughout the process.
 
 ## What I Learned
 Leading this project taught me that being a good leader is not about
-self-imposed perfection — it is about making sure your team performs at their
+self-imposed perfection, it is about making sure your team performs at their
 best as well.
 I learned that you cannot impose your opinion on others. You have
 to listen, find a middle ground, and bring people together. Being
