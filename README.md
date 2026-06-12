@@ -11,7 +11,7 @@ collecting data on phishing attacks to inform users about cyber threats and its 
 ## How The Game Works
 To make it entertaining for users, we included elements like character selection page. Following this,
 the game initiates with the player running on a straight track and to clear the obstacles they have to choose
-the right email from two boxes — one contains the correct email and one contains the fraudulent scam email.
+the right email from two boxes, one contains the correct email and one contains the fraudulent scam email.
 
 - If the player chooses the right email, they move to the next level
 - If the wrong email is chosen, a screen appears notifying them why the email was a scam and what the
